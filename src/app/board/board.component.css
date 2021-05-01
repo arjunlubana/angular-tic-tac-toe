@@ -1,3 +1,14 @@
+button{
+  margin-bottom: 1rem;
+  background-color: #2498db;
+  padding: 10px 5px 10px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 2px;
+  color: white;
+  font-weight: bold;
+}
+
 main {
   display: grid;
   grid-template-columns: 100px 100px 100px;

@@ -12,6 +12,8 @@ import { Component, Input } from '@angular/core';
       width: 100px;
       height: 100px;
       border: none;
+      font-size: 2rem;
+      font-weight: bold;
     }
     button:hover {
       background-color: rgb(100,100,250);
